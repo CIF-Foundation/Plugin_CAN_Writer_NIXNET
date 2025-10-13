@@ -1,0 +1,46 @@
+syntax = "proto3";
+
+import "cif_common.proto";
+//The CIF protos are installed in the default CIF data directory.  On Windows this is C:/Users/Public/Documents/CIF/protos
+//When generating new gRPC server/client code this directory needs to be provided as an Import path
+
+package cif.can_writer_nixnet;
+
+// This demonstrates a simple gRPC service.  This service will allow setting a numeric value in the plugin and reading that value back.  
+
+service CanWriterNixnet {
+  rpc GetDevices (RefreshDevices) returns (XnetDevices) {}
+  rpc GetStatistics (cif.common.Empty) returns (Statistics) {}
+  rpc SetInterfaceBlink (InterfaceBlink) returns (cif.common.Status) {}
+  rpc SendCanMessage (CanMessage) returns (cif.common.Status) {}
+}
+
+message Statistics {
+   uint64 iterations = 1;
+   uint64 write_timeouts = 2;
+   uint64 write_frames = 3;
+   uint64 filtered_frames = 4;
+}
+
+message RefreshDevices {
+   bool refresh_device_list = 1;
+}
+
+message InterfaceBlink {
+   bool blink = 1;
+}
+
+message XnetDevices {
+   repeated XnetDevice devices = 1;
+}
+
+message XnetDevice {
+   string interface = 1;
+   uint32 slot = 2;
+   string device_id = 3;
+}
+
+message CanMessage {
+   bytes can_message = 1; //Must be in format of pcap data linktype SocketCAN. Can be multiple messages 
+   //concatenated together.  Timestamps are ignored and it is send immediately.  
+}
