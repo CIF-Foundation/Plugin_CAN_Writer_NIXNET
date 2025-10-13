@@ -13,8 +13,9 @@
 		<Item Name="Destroy Client.vi" Type="VI" URL="../Common/Destroy Client.vi"/>
 	</Item>
 	<Item Name="Commands" Type="Folder">
-		<Item Name="Get Result.vi" Type="VI" URL="../Commands/Get Result.vi"/>
+		<Item Name="Get Devices.vi" Type="VI" URL="../Commands/Get Devices.vi"/>
 		<Item Name="Get Statistics.vi" Type="VI" URL="../Commands/Get Statistics.vi"/>
-		<Item Name="Set Numeric.vi" Type="VI" URL="../Commands/Set Numeric.vi"/>
+		<Item Name="Send CAN Message.vi" Type="VI" URL="../Commands/Send CAN Message.vi"/>
+		<Item Name="Blink.vi" Type="VI" URL="../Commands/Blink.vi"/>
 	</Item>
 </Library>

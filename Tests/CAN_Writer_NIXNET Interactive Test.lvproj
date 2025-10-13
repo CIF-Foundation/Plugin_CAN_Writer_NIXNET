@@ -195,6 +195,8 @@
 				<Item Name="XNET Wait (Interface Communicating).vi" Type="VI" URL="/&lt;vilib&gt;/xnet/xnet.llb/XNET Wait (Interface Communicating).vi"/>
 				<Item Name="XNET Wait (CAN Remote Wakeup).vi" Type="VI" URL="/&lt;vilib&gt;/xnet/xnet.llb/XNET Wait (CAN Remote Wakeup).vi"/>
 				<Item Name="XNET Wait.vi" Type="VI" URL="/&lt;vilib&gt;/xnet/xnet.llb/XNET Wait.vi"/>
+				<Item Name="XNET Blink Modifier.ctl" Type="VI" URL="/&lt;vilib&gt;/xnet/xnet.llb/XNET Blink Modifier.ctl"/>
+				<Item Name="XNET Blink.vi" Type="VI" URL="/&lt;vilib&gt;/xnet/xnet.llb/XNET Blink.vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="openg_variant.lvlib" Type="Library" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/openg_variant.lvlib"/>
