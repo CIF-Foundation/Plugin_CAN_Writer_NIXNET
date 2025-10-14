@@ -700,7 +700,7 @@
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/CIF Build Actions.lvlib/Core/UI Post-Build Action.vi</Property>
 				<Property Name="Bld_preActionVIID" Type="Ref">/My Computer/CIF Build Actions.lvlib/Core/UI Pre-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{05547330-7608-4C70-A459-D72560977C4B}</Property>
-				<Property Name="Bld_version.build" Type="UInt">3</Property>
+				<Property Name="Bld_version.build" Type="UInt">4</Property>
 				<Property Name="Bld_version.major" Type="UInt">1</Property>
 				<Property Name="Bld_version.minor" Type="UInt">0</Property>
 				<Property Name="Bld_version.patch" Type="UInt">0</Property>
@@ -745,7 +745,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/CIF Build Actions.lvlib/Core/Versioned UI Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{1E1BA232-7E6D-4D0F-AA4F-FFBBE32B88C6}</Property>
-				<Property Name="Bld_version.build" Type="UInt">3</Property>
+				<Property Name="Bld_version.build" Type="UInt">4</Property>
 				<Property Name="Bld_version.major" Type="UInt">1</Property>
 				<Property Name="Bld_version.minor" Type="UInt">0</Property>
 				<Property Name="Bld_version.patch" Type="UInt">0</Property>
