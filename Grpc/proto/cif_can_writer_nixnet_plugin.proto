@@ -17,7 +17,7 @@ service CanWriterNixnet {
 
 message Statistics {
    uint64 iterations = 1;
-   uint64 write_timeouts = 2;
+   uint64 fifo_read_timeouts = 2;
    uint64 write_frames = 3;
    uint64 filtered_frames = 4;
 }
