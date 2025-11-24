@@ -20,6 +20,7 @@ message Statistics {
    uint64 fifo_read_timeouts = 2;
    uint64 write_frames = 3;
    uint64 filtered_frames = 4;
+   uint64 fifo_drops = 5;
 }
 
 message RefreshDevices {

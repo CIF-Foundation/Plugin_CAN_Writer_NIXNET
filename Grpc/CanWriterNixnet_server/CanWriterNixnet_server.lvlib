@@ -9,48 +9,6 @@
 
 </Property>
 	<Item Name="RPC Messages" Type="Folder">
-		<Item Name="cif_can_writer_nixnet_Statistics" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_Statistics.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_Statistics.ctl"/>
-			<Item Name="FlatToRichcif_can_writer_nixnet_Statistics.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_Statistics.vi"/>
-			<Item Name="RichToFlatcif_can_writer_nixnet_Statistics.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_Statistics.vi"/>
-			<Item Name="Set cif_can_writer_nixnet_Statistics.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_Statistics.vi"/>
-			<Item Name="Get cif_can_writer_nixnet_Statistics.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_Statistics.vi"/>
-		</Item>
-		<Item Name="cif_can_writer_nixnet_RefreshDevices" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_RefreshDevices.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_RefreshDevices.ctl"/>
-			<Item Name="FlatToRichcif_can_writer_nixnet_RefreshDevices.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_RefreshDevices.vi"/>
-			<Item Name="RichToFlatcif_can_writer_nixnet_RefreshDevices.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_RefreshDevices.vi"/>
-			<Item Name="Set cif_can_writer_nixnet_RefreshDevices.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_RefreshDevices.vi"/>
-			<Item Name="Get cif_can_writer_nixnet_RefreshDevices.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_RefreshDevices.vi"/>
-		</Item>
-		<Item Name="cif_can_writer_nixnet_InterfaceBlink" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_InterfaceBlink.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_InterfaceBlink.ctl"/>
-			<Item Name="FlatToRichcif_can_writer_nixnet_InterfaceBlink.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_InterfaceBlink.vi"/>
-			<Item Name="RichToFlatcif_can_writer_nixnet_InterfaceBlink.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_InterfaceBlink.vi"/>
-			<Item Name="Set cif_can_writer_nixnet_InterfaceBlink.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_InterfaceBlink.vi"/>
-			<Item Name="Get cif_can_writer_nixnet_InterfaceBlink.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_InterfaceBlink.vi"/>
-		</Item>
-		<Item Name="cif_can_writer_nixnet_XnetDevices" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_XnetDevices.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_XnetDevices.ctl"/>
-			<Item Name="FlatToRichcif_can_writer_nixnet_XnetDevices.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_XnetDevices.vi"/>
-			<Item Name="RichToFlatcif_can_writer_nixnet_XnetDevices.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_XnetDevices.vi"/>
-			<Item Name="Set cif_can_writer_nixnet_XnetDevices.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_XnetDevices.vi"/>
-			<Item Name="Get cif_can_writer_nixnet_XnetDevices.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_XnetDevices.vi"/>
-		</Item>
-		<Item Name="cif_can_writer_nixnet_XnetDevice" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_XnetDevice.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_XnetDevice.ctl"/>
-			<Item Name="FlatToRichcif_can_writer_nixnet_XnetDevice.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_XnetDevice.vi"/>
-			<Item Name="RichToFlatcif_can_writer_nixnet_XnetDevice.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_XnetDevice.vi"/>
-			<Item Name="Set cif_can_writer_nixnet_XnetDevice.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_XnetDevice.vi"/>
-			<Item Name="Get cif_can_writer_nixnet_XnetDevice.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_XnetDevice.vi"/>
-		</Item>
-		<Item Name="cif_can_writer_nixnet_CanMessage" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_CanMessage.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_CanMessage.ctl"/>
-			<Item Name="FlatToRichcif_can_writer_nixnet_CanMessage.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_CanMessage.vi"/>
-			<Item Name="RichToFlatcif_can_writer_nixnet_CanMessage.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_CanMessage.vi"/>
-			<Item Name="Set cif_can_writer_nixnet_CanMessage.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_CanMessage.vi"/>
-			<Item Name="Get cif_can_writer_nixnet_CanMessage.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_CanMessage.vi"/>
-		</Item>
 		<Item Name="cif_common_TimingStats" Type="Folder">
 			<Item Name="cif_common_TimingStats.ctl" Type="VI" URL="../RPC Messages/cif_common_TimingStats.ctl"/>
 			<Item Name="FlatToRichcif_common_TimingStats.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_common_TimingStats.vi"/>
@@ -93,23 +51,47 @@
 			<Item Name="Set cif_common_Empty.vi" Type="VI" URL="../RPC Messages/Set cif_common_Empty.vi"/>
 			<Item Name="Get cif_common_Empty.vi" Type="VI" URL="../RPC Messages/Get cif_common_Empty.vi"/>
 		</Item>
-		<Item Name="cif_can_writer_nixnet_Statistics_Flat" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_Statistics_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_Statistics_Flat.ctl"/>
+		<Item Name="cif_can_writer_nixnet_Statistics" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_Statistics.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_Statistics.ctl"/>
+			<Item Name="FlatToRichcif_can_writer_nixnet_Statistics.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_Statistics.vi"/>
+			<Item Name="RichToFlatcif_can_writer_nixnet_Statistics.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_Statistics.vi"/>
+			<Item Name="Set cif_can_writer_nixnet_Statistics.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_Statistics.vi"/>
+			<Item Name="Get cif_can_writer_nixnet_Statistics.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_Statistics.vi"/>
 		</Item>
-		<Item Name="cif_can_writer_nixnet_RefreshDevices_Flat" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_RefreshDevices_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_RefreshDevices_Flat.ctl"/>
+		<Item Name="cif_can_writer_nixnet_RefreshDevices" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_RefreshDevices.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_RefreshDevices.ctl"/>
+			<Item Name="FlatToRichcif_can_writer_nixnet_RefreshDevices.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_RefreshDevices.vi"/>
+			<Item Name="RichToFlatcif_can_writer_nixnet_RefreshDevices.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_RefreshDevices.vi"/>
+			<Item Name="Set cif_can_writer_nixnet_RefreshDevices.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_RefreshDevices.vi"/>
+			<Item Name="Get cif_can_writer_nixnet_RefreshDevices.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_RefreshDevices.vi"/>
 		</Item>
-		<Item Name="cif_can_writer_nixnet_InterfaceBlink_Flat" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_InterfaceBlink_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_InterfaceBlink_Flat.ctl"/>
+		<Item Name="cif_can_writer_nixnet_InterfaceBlink" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_InterfaceBlink.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_InterfaceBlink.ctl"/>
+			<Item Name="FlatToRichcif_can_writer_nixnet_InterfaceBlink.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_InterfaceBlink.vi"/>
+			<Item Name="RichToFlatcif_can_writer_nixnet_InterfaceBlink.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_InterfaceBlink.vi"/>
+			<Item Name="Set cif_can_writer_nixnet_InterfaceBlink.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_InterfaceBlink.vi"/>
+			<Item Name="Get cif_can_writer_nixnet_InterfaceBlink.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_InterfaceBlink.vi"/>
 		</Item>
-		<Item Name="cif_can_writer_nixnet_XnetDevices_Flat" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_XnetDevices_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_XnetDevices_Flat.ctl"/>
+		<Item Name="cif_can_writer_nixnet_XnetDevices" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_XnetDevices.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_XnetDevices.ctl"/>
+			<Item Name="FlatToRichcif_can_writer_nixnet_XnetDevices.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_XnetDevices.vi"/>
+			<Item Name="RichToFlatcif_can_writer_nixnet_XnetDevices.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_XnetDevices.vi"/>
+			<Item Name="Set cif_can_writer_nixnet_XnetDevices.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_XnetDevices.vi"/>
+			<Item Name="Get cif_can_writer_nixnet_XnetDevices.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_XnetDevices.vi"/>
 		</Item>
-		<Item Name="cif_can_writer_nixnet_XnetDevice_Flat" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_XnetDevice_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_XnetDevice_Flat.ctl"/>
+		<Item Name="cif_can_writer_nixnet_XnetDevice" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_XnetDevice.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_XnetDevice.ctl"/>
+			<Item Name="FlatToRichcif_can_writer_nixnet_XnetDevice.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_XnetDevice.vi"/>
+			<Item Name="RichToFlatcif_can_writer_nixnet_XnetDevice.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_XnetDevice.vi"/>
+			<Item Name="Set cif_can_writer_nixnet_XnetDevice.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_XnetDevice.vi"/>
+			<Item Name="Get cif_can_writer_nixnet_XnetDevice.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_XnetDevice.vi"/>
 		</Item>
-		<Item Name="cif_can_writer_nixnet_CanMessage_Flat" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_CanMessage_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_CanMessage_Flat.ctl"/>
+		<Item Name="cif_can_writer_nixnet_CanMessage" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_CanMessage.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_CanMessage.ctl"/>
+			<Item Name="FlatToRichcif_can_writer_nixnet_CanMessage.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_CanMessage.vi"/>
+			<Item Name="RichToFlatcif_can_writer_nixnet_CanMessage.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_CanMessage.vi"/>
+			<Item Name="Set cif_can_writer_nixnet_CanMessage.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_CanMessage.vi"/>
+			<Item Name="Get cif_can_writer_nixnet_CanMessage.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_CanMessage.vi"/>
 		</Item>
 		<Item Name="cif_common_TimingStats_Flat" Type="Folder">
 			<Item Name="cif_common_TimingStats_Flat.ctl" Type="VI" URL="../RPC Messages/cif_common_TimingStats_Flat.ctl"/>
@@ -128,6 +110,24 @@
 		</Item>
 		<Item Name="cif_common_Empty_Flat" Type="Folder">
 			<Item Name="cif_common_Empty_Flat.ctl" Type="VI" URL="../RPC Messages/cif_common_Empty_Flat.ctl"/>
+		</Item>
+		<Item Name="cif_can_writer_nixnet_Statistics_Flat" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_Statistics_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_Statistics_Flat.ctl"/>
+		</Item>
+		<Item Name="cif_can_writer_nixnet_RefreshDevices_Flat" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_RefreshDevices_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_RefreshDevices_Flat.ctl"/>
+		</Item>
+		<Item Name="cif_can_writer_nixnet_InterfaceBlink_Flat" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_InterfaceBlink_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_InterfaceBlink_Flat.ctl"/>
+		</Item>
+		<Item Name="cif_can_writer_nixnet_XnetDevices_Flat" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_XnetDevices_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_XnetDevices_Flat.ctl"/>
+		</Item>
+		<Item Name="cif_can_writer_nixnet_XnetDevice_Flat" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_XnetDevice_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_XnetDevice_Flat.ctl"/>
+		</Item>
+		<Item Name="cif_can_writer_nixnet_CanMessage_Flat" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_CanMessage_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_CanMessage_Flat.ctl"/>
 		</Item>
 		<Item Name="Register gRPC Messages.vi" Type="VI" URL="../RPC Messages/Register gRPC Messages.vi"/>
 	</Item>
