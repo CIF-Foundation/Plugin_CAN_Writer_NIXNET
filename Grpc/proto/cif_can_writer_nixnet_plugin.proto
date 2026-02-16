@@ -6,8 +6,6 @@ import "cif_common.proto";
 
 package cif.can_writer_nixnet;
 
-// This demonstrates a simple gRPC service.  This service will allow setting a numeric value in the plugin and reading that value back.  
-
 service CanWriterNixnet {
   rpc GetDevices (RefreshDevices) returns (XnetDevices) {}
   rpc GetStatistics (cif.common.Empty) returns (Statistics) {}

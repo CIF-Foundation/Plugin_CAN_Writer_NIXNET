@@ -310,6 +310,7 @@
 				<Item Name="Errors_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Errors/Errors_CIF_U.lvlib"/>
 				<Item Name="ErrWarn.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/ErrWarn.ctl"/>
 				<Item Name="eventvkey.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/eventvkey.ctl"/>
+				<Item Name="File_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/File/File_CIF_U.lvlib"/>
 				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
 				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
@@ -793,12 +794,12 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/CIF Build Actions.lvlib/Core/Versioned RT Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{E1B1FFA6-FD1A-43A9-B4CA-878D53F65E7D}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/rt</Property>
-				<Property Name="Bld_version.build" Type="UInt">1</Property>
+				<Property Name="Bld_version.build" Type="UInt">0</Property>
 				<Property Name="Bld_version.major" Type="UInt">1</Property>
-				<Property Name="Bld_version.minor" Type="UInt">3</Property>
-				<Property Name="Bld_version.patch" Type="UInt">0</Property>
-				<Property Name="Destination[0].destName" Type="Str">CAN_Writer_NIXNET_Plugin.1.3.0.lvlibp</Property>
-				<Property Name="Destination[0].path" Type="Path">/rt/CAN_Writer_NIXNET_Plugin.1.3.0.lvlibp</Property>
+				<Property Name="Bld_version.minor" Type="UInt">4</Property>
+				<Property Name="Bld_version.patch" Type="UInt">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">CAN_Writer_NIXNET_Plugin.1.4.1.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">/rt/CAN_Writer_NIXNET_Plugin.1.4.1.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -822,7 +823,7 @@ AddOutputFilter chunkFilter
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2024 </Property>
 				<Property Name="TgtF_productName" Type="Str">PluginRT</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{6DA0406C-9AB0-4143-8ABB-FB8A9909FCC3}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">CAN_Writer_NIXNET_Plugin.1.3.0.lvlibp</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">CAN_Writer_NIXNET_Plugin.1.4.1.lvlibp</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
