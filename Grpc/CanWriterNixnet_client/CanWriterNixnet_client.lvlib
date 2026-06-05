@@ -11,99 +11,171 @@
 	<Item Name="RPC Messages" Type="Folder">
 		<Item Name="cif_common_TimingStats" Type="Folder">
 			<Item Name="cif_common_TimingStats.ctl" Type="VI" URL="../RPC Messages/cif_common_TimingStats.ctl"/>
-			<Item Name="FlatToRichcif_common_TimingStats.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_common_TimingStats.vi"/>
-			<Item Name="RichToFlatcif_common_TimingStats.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_common_TimingStats.vi"/>
+			<Item Name="FlatToRichcif_common_TimingStats.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_common_TimingStats.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="RichToFlatcif_common_TimingStats.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_common_TimingStats.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_common_Version" Type="Folder">
 			<Item Name="cif_common_Version.ctl" Type="VI" URL="../RPC Messages/cif_common_Version.ctl"/>
-			<Item Name="FlatToRichcif_common_Version.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_common_Version.vi"/>
-			<Item Name="RichToFlatcif_common_Version.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_common_Version.vi"/>
+			<Item Name="FlatToRichcif_common_Version.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_common_Version.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="RichToFlatcif_common_Version.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_common_Version.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_common_ShortVersion" Type="Folder">
 			<Item Name="cif_common_ShortVersion.ctl" Type="VI" URL="../RPC Messages/cif_common_ShortVersion.ctl"/>
-			<Item Name="FlatToRichcif_common_ShortVersion.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_common_ShortVersion.vi"/>
-			<Item Name="RichToFlatcif_common_ShortVersion.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_common_ShortVersion.vi"/>
+			<Item Name="FlatToRichcif_common_ShortVersion.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_common_ShortVersion.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="RichToFlatcif_common_ShortVersion.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_common_ShortVersion.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_common_PluginNames" Type="Folder">
 			<Item Name="cif_common_PluginNames.ctl" Type="VI" URL="../RPC Messages/cif_common_PluginNames.ctl"/>
-			<Item Name="FlatToRichcif_common_PluginNames.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_common_PluginNames.vi"/>
-			<Item Name="RichToFlatcif_common_PluginNames.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_common_PluginNames.vi"/>
+			<Item Name="FlatToRichcif_common_PluginNames.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_common_PluginNames.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="RichToFlatcif_common_PluginNames.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_common_PluginNames.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_common_Status" Type="Folder">
 			<Item Name="cif_common_Status.ctl" Type="VI" URL="../RPC Messages/cif_common_Status.ctl"/>
-			<Item Name="FlatToRichcif_common_Status.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_common_Status.vi"/>
-			<Item Name="RichToFlatcif_common_Status.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_common_Status.vi"/>
+			<Item Name="FlatToRichcif_common_Status.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_common_Status.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="RichToFlatcif_common_Status.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_common_Status.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_common_Empty" Type="Folder">
 			<Item Name="cif_common_Empty.ctl" Type="VI" URL="../RPC Messages/cif_common_Empty.ctl"/>
-			<Item Name="FlatToRichcif_common_Empty.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_common_Empty.vi"/>
-			<Item Name="RichToFlatcif_common_Empty.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_common_Empty.vi"/>
+			<Item Name="FlatToRichcif_common_Empty.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_common_Empty.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="RichToFlatcif_common_Empty.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_common_Empty.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_can_writer_nixnet_Statistics" Type="Folder">
 			<Item Name="cif_can_writer_nixnet_Statistics.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_Statistics.ctl"/>
-			<Item Name="FlatToRichcif_can_writer_nixnet_Statistics.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_Statistics.vi"/>
-			<Item Name="RichToFlatcif_can_writer_nixnet_Statistics.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_Statistics.vi"/>
+			<Item Name="FlatToRichcif_can_writer_nixnet_Statistics.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_Statistics.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="RichToFlatcif_can_writer_nixnet_Statistics.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_Statistics.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_can_writer_nixnet_RefreshDevices" Type="Folder">
 			<Item Name="cif_can_writer_nixnet_RefreshDevices.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_RefreshDevices.ctl"/>
-			<Item Name="FlatToRichcif_can_writer_nixnet_RefreshDevices.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_RefreshDevices.vi"/>
-			<Item Name="RichToFlatcif_can_writer_nixnet_RefreshDevices.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_RefreshDevices.vi"/>
+			<Item Name="FlatToRichcif_can_writer_nixnet_RefreshDevices.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_RefreshDevices.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="RichToFlatcif_can_writer_nixnet_RefreshDevices.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_RefreshDevices.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_can_writer_nixnet_InterfaceBlink" Type="Folder">
 			<Item Name="cif_can_writer_nixnet_InterfaceBlink.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_InterfaceBlink.ctl"/>
-			<Item Name="FlatToRichcif_can_writer_nixnet_InterfaceBlink.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_InterfaceBlink.vi"/>
-			<Item Name="RichToFlatcif_can_writer_nixnet_InterfaceBlink.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_InterfaceBlink.vi"/>
+			<Item Name="FlatToRichcif_can_writer_nixnet_InterfaceBlink.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_InterfaceBlink.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="RichToFlatcif_can_writer_nixnet_InterfaceBlink.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_InterfaceBlink.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_can_writer_nixnet_XnetDevices" Type="Folder">
 			<Item Name="cif_can_writer_nixnet_XnetDevices.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_XnetDevices.ctl"/>
-			<Item Name="FlatToRichcif_can_writer_nixnet_XnetDevices.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_XnetDevices.vi"/>
-			<Item Name="RichToFlatcif_can_writer_nixnet_XnetDevices.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_XnetDevices.vi"/>
+			<Item Name="FlatToRichcif_can_writer_nixnet_XnetDevices.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_XnetDevices.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="RichToFlatcif_can_writer_nixnet_XnetDevices.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_XnetDevices.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_can_writer_nixnet_XnetDevice" Type="Folder">
 			<Item Name="cif_can_writer_nixnet_XnetDevice.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_XnetDevice.ctl"/>
-			<Item Name="FlatToRichcif_can_writer_nixnet_XnetDevice.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_XnetDevice.vi"/>
-			<Item Name="RichToFlatcif_can_writer_nixnet_XnetDevice.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_XnetDevice.vi"/>
+			<Item Name="FlatToRichcif_can_writer_nixnet_XnetDevice.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_XnetDevice.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="RichToFlatcif_can_writer_nixnet_XnetDevice.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_XnetDevice.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_can_writer_nixnet_CanMessage" Type="Folder">
 			<Item Name="cif_can_writer_nixnet_CanMessage.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_CanMessage.ctl"/>
-			<Item Name="FlatToRichcif_can_writer_nixnet_CanMessage.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_CanMessage.vi"/>
-			<Item Name="RichToFlatcif_can_writer_nixnet_CanMessage.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_CanMessage.vi"/>
+			<Item Name="FlatToRichcif_can_writer_nixnet_CanMessage.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_CanMessage.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="RichToFlatcif_can_writer_nixnet_CanMessage.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_CanMessage.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_common_TimingStats_Flat" Type="Folder">
-			<Item Name="cif_common_TimingStats_Flat.ctl" Type="VI" URL="../RPC Messages/cif_common_TimingStats_Flat.ctl"/>
+			<Item Name="cif_common_TimingStats_Flat.ctl" Type="VI" URL="../RPC Messages/cif_common_TimingStats_Flat.ctl">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_common_Version_Flat" Type="Folder">
-			<Item Name="cif_common_Version_Flat.ctl" Type="VI" URL="../RPC Messages/cif_common_Version_Flat.ctl"/>
+			<Item Name="cif_common_Version_Flat.ctl" Type="VI" URL="../RPC Messages/cif_common_Version_Flat.ctl">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_common_ShortVersion_Flat" Type="Folder">
-			<Item Name="cif_common_ShortVersion_Flat.ctl" Type="VI" URL="../RPC Messages/cif_common_ShortVersion_Flat.ctl"/>
+			<Item Name="cif_common_ShortVersion_Flat.ctl" Type="VI" URL="../RPC Messages/cif_common_ShortVersion_Flat.ctl">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_common_PluginNames_Flat" Type="Folder">
-			<Item Name="cif_common_PluginNames_Flat.ctl" Type="VI" URL="../RPC Messages/cif_common_PluginNames_Flat.ctl"/>
+			<Item Name="cif_common_PluginNames_Flat.ctl" Type="VI" URL="../RPC Messages/cif_common_PluginNames_Flat.ctl">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_common_Status_Flat" Type="Folder">
-			<Item Name="cif_common_Status_Flat.ctl" Type="VI" URL="../RPC Messages/cif_common_Status_Flat.ctl"/>
+			<Item Name="cif_common_Status_Flat.ctl" Type="VI" URL="../RPC Messages/cif_common_Status_Flat.ctl">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_common_Empty_Flat" Type="Folder">
-			<Item Name="cif_common_Empty_Flat.ctl" Type="VI" URL="../RPC Messages/cif_common_Empty_Flat.ctl"/>
+			<Item Name="cif_common_Empty_Flat.ctl" Type="VI" URL="../RPC Messages/cif_common_Empty_Flat.ctl">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_can_writer_nixnet_Statistics_Flat" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_Statistics_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_Statistics_Flat.ctl"/>
+			<Item Name="cif_can_writer_nixnet_Statistics_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_Statistics_Flat.ctl">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_can_writer_nixnet_RefreshDevices_Flat" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_RefreshDevices_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_RefreshDevices_Flat.ctl"/>
+			<Item Name="cif_can_writer_nixnet_RefreshDevices_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_RefreshDevices_Flat.ctl">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_can_writer_nixnet_InterfaceBlink_Flat" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_InterfaceBlink_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_InterfaceBlink_Flat.ctl"/>
+			<Item Name="cif_can_writer_nixnet_InterfaceBlink_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_InterfaceBlink_Flat.ctl">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_can_writer_nixnet_XnetDevices_Flat" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_XnetDevices_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_XnetDevices_Flat.ctl"/>
+			<Item Name="cif_can_writer_nixnet_XnetDevices_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_XnetDevices_Flat.ctl">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_can_writer_nixnet_XnetDevice_Flat" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_XnetDevice_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_XnetDevice_Flat.ctl"/>
+			<Item Name="cif_can_writer_nixnet_XnetDevice_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_XnetDevice_Flat.ctl">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="cif_can_writer_nixnet_CanMessage_Flat" Type="Folder">
-			<Item Name="cif_can_writer_nixnet_CanMessage_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_CanMessage_Flat.ctl"/>
+			<Item Name="cif_can_writer_nixnet_CanMessage_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_CanMessage_Flat.ctl">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
 		</Item>
 		<Item Name="Register gRPC Messages.vi" Type="VI" URL="../RPC Messages/Register gRPC Messages.vi"/>
 	</Item>
@@ -127,5 +199,4 @@
 		<Item Name="Create Client.vi" Type="VI" URL="../Client API/Create Client.vi"/>
 		<Item Name="Destroy Client.vi" Type="VI" URL="../Client API/Destroy Client.vi"/>
 	</Item>
-	<Item Name="gRPC Client Test.vi" Type="VI" URL="../gRPC Client Test.vi"/>
 </Library>
