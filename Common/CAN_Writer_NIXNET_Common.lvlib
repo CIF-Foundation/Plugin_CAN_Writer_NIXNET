@@ -8,6 +8,7 @@
 
 </Property>
 	<Item Name="SubVIs" Type="Folder">
+		<Item Name="Add Error Core.vi" Type="VI" URL="../SubVIs/Add Error Core.vi"/>
 		<Item Name="Add Error.vi" Type="VI" URL="../SubVIs/Add Error.vi"/>
 		<Item Name="Channels.vi" Type="VI" URL="../SubVIs/Channels.vi"/>
 	</Item>

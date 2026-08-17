@@ -284,7 +284,7 @@
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="Are Paths Equal.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Are Paths Equal.vi"/>
 				<Item Name="Assert Error Cluster Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Error Cluster Type.vim"/>
-				<Item Name="Assert Fixed-Point Numeric Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Fixed-Point Numeric Type.vim"/>
+				<Item Name="Boolean_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Boolean/Boolean_CIF_U.lvlib"/>
 				<Item Name="build preview data.ctl" Type="VI" URL="/&lt;vilib&gt;/AppBuilder/AB_Classes/PreviewCache/build preview data.ctl"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="CAN_RW_CORE.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/CIF Foundation/CIF CAN RW Core/CAN_RW_CORE.lvclass"/>
@@ -441,7 +441,6 @@
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Search Unsorted 1D Array Core.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Helpers/Search Unsorted 1D Array Core.vim"/>
 				<Item Name="Search Unsorted 1D Array.vim" Type="VI" URL="/&lt;vilib&gt;/Array/Search Unsorted 1D Array.vim"/>
-				<Item Name="Service Template.lvlib" Type="Library" URL="/&lt;vilib&gt;/gRPC/gRPC Server and Client Template [2]/Server Template/Service Template.lvlib"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Set VI Library File Info.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Set VI Library File Info.vi"/>
@@ -692,11 +691,11 @@
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/CIF Build Actions.lvlib/Core/Versioned Host Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{3E6AB6A9-CA13-496A-B37F-68FF980D4525}</Property>
 				<Property Name="Bld_version.build" Type="UInt">0</Property>
-				<Property Name="Bld_version.major" Type="UInt">2</Property>
+				<Property Name="Bld_version.major" Type="UInt">3</Property>
 				<Property Name="Bld_version.minor" Type="UInt">0</Property>
-				<Property Name="Bld_version.patch" Type="UInt">2</Property>
-				<Property Name="Destination[0].destName" Type="Str">CAN_Writer_NIXNET_Plugin.2.0.2.lvlibp</Property>
-				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/CIF/builds/CAN_Writer_NIXNETPlugin/win/CAN_Writer_NIXNET_Plugin.2.0.2.lvlibp</Property>
+				<Property Name="Bld_version.patch" Type="UInt">3</Property>
+				<Property Name="Destination[0].destName" Type="Str">CAN_Writer_NIXNET_Plugin.3.0.3.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/CIF/builds/CAN_Writer_NIXNETPlugin/win/CAN_Writer_NIXNET_Plugin.3.0.3.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -721,7 +720,7 @@
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2025 </Property>
 				<Property Name="TgtF_productName" Type="Str">PluginWin</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{5B0DB68A-8D34-42D5-8BC2-16A52FB2FBA3}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">CAN_Writer_NIXNET_Plugin.2.0.2.lvlibp</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">CAN_Writer_NIXNET_Plugin.3.0.3.lvlibp</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
