@@ -703,7 +703,7 @@
 				<Property Name="Bld_version.build" Type="UInt">0</Property>
 				<Property Name="Bld_version.major" Type="UInt">3</Property>
 				<Property Name="Bld_version.minor" Type="UInt">0</Property>
-				<Property Name="Bld_version.patch" Type="UInt">3</Property>
+				<Property Name="Bld_version.patch" Type="UInt">4</Property>
 				<Property Name="Destination[0].destName" Type="Str">CIF_CAN_Writer_NIXNET_UI.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/CIF/builds/CAN_Writer_NIXNETPlugin/UI/NI_AB_PROJECTNAME.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
@@ -748,9 +748,9 @@
 				<Property Name="Bld_version.build" Type="UInt">0</Property>
 				<Property Name="Bld_version.major" Type="UInt">3</Property>
 				<Property Name="Bld_version.minor" Type="UInt">0</Property>
-				<Property Name="Bld_version.patch" Type="UInt">3</Property>
-				<Property Name="Destination[0].destName" Type="Str">CIF CAN_Writer_NIXNET UI.3.0.3.lvlibp</Property>
-				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/CIF/builds/CAN_Writer_NIXNETPlugin/UI/CIF CAN_Writer_NIXNET UI.3.0.3.lvlibp</Property>
+				<Property Name="Bld_version.patch" Type="UInt">4</Property>
+				<Property Name="Destination[0].destName" Type="Str">CIF CAN_Writer_NIXNET UI.3.0.4.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Users/Public/Documents/CIF/builds/CAN_Writer_NIXNETPlugin/UI/CIF CAN_Writer_NIXNET UI.3.0.4.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -775,7 +775,7 @@
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2025 </Property>
 				<Property Name="TgtF_productName" Type="Str">UI Plugin Versioned</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{B0BA265F-1701-4826-B8CA-5C9F74FC0E2A}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">CIF CAN_Writer_NIXNET UI.3.0.3.lvlibp</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">CIF CAN_Writer_NIXNET UI.3.0.4.lvlibp</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
