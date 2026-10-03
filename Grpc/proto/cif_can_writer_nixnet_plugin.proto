@@ -19,6 +19,7 @@ message Statistics {
    uint64 write_frames = 3;
    uint64 filtered_frames = 4;
    uint64 fifo_drops = 5;
+   uint64 ack_errors = 6;
 }
 
 message RefreshDevices {
