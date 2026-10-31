@@ -680,6 +680,7 @@ AddOutputFilter chunkFilter
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="pcap_Parse_Build_CIF.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/CIF Foundation/CIF PCAP Parse and Build/pcap_Parse_Build_CIF.lvclass"/>
 				<Item Name="Qualified Name Array To Single String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Qualified Name Array To Single String.vi"/>
+				<Item Name="Service Template.lvlib" Type="Library" URL="/&lt;vilib&gt;/gRPC/gRPC Server and Client Template [2]/Server Template/Service Template.lvlib"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="Stats_CIF_U.lvlib" Type="Library" URL="/&lt;vilib&gt;/CIF Foundation/CIF Utilities/Statistics/Stats_CIF_U.lvlib"/>
 				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
@@ -804,10 +805,10 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_targetDestDir" Type="Path">/rt</Property>
 				<Property Name="Bld_version.build" Type="UInt">0</Property>
 				<Property Name="Bld_version.major" Type="UInt">3</Property>
-				<Property Name="Bld_version.minor" Type="UInt">1</Property>
+				<Property Name="Bld_version.minor" Type="UInt">2</Property>
 				<Property Name="Bld_version.patch" Type="UInt">0</Property>
-				<Property Name="Destination[0].destName" Type="Str">CAN_Writer_NIXNET_Plugin.3.1.0.lvlibp</Property>
-				<Property Name="Destination[0].path" Type="Path">/rt/CAN_Writer_NIXNET_Plugin.3.1.0.lvlibp</Property>
+				<Property Name="Destination[0].destName" Type="Str">CAN_Writer_NIXNET_Plugin.3.2.0.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">/rt/CAN_Writer_NIXNET_Plugin.3.2.0.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -837,7 +838,7 @@ AddOutputFilter chunkFilter
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2024 </Property>
 				<Property Name="TgtF_productName" Type="Str">PluginRT</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{6DA0406C-9AB0-4143-8ABB-FB8A9909FCC3}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">CAN_Writer_NIXNET_Plugin.3.1.0.lvlibp</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">CAN_Writer_NIXNET_Plugin.3.2.0.lvlibp</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
