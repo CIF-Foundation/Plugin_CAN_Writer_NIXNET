@@ -30,6 +30,50 @@
 				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 			</Item>
 		</Item>
+		<Item Name="cif_can_writer_nixnet_CommState" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_CommState.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_CommState.ctl"/>
+			<Item Name="Get cif_can_writer_nixnet_CommState for Value.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_CommState for Value.vi"/>
+			<Item Name="Get cif_can_writer_nixnet_CommState.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_CommState.vi"/>
+			<Item Name="Get Value for cif_can_writer_nixnet_CommState.vi" Type="VI" URL="../RPC Messages/Get Value for cif_can_writer_nixnet_CommState.vi"/>
+			<Item Name="Set cif_can_writer_nixnet_CommState.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_CommState.vi"/>
+		</Item>
+		<Item Name="cif_can_writer_nixnet_CommState_Flat" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_CommState_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_CommState_Flat.ctl"/>
+			<Item Name="Get cif_can_writer_nixnet_CommState_Flat for Value.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_CommState_Flat for Value.vi"/>
+			<Item Name="Get Value for cif_can_writer_nixnet_CommState_Flat.vi" Type="VI" URL="../RPC Messages/Get Value for cif_can_writer_nixnet_CommState_Flat.vi"/>
+		</Item>
+		<Item Name="cif_can_writer_nixnet_GetCANStatusRequest" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_GetCANStatusRequest.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_GetCANStatusRequest.ctl"/>
+			<Item Name="FlatToRichcif_can_writer_nixnet_GetCANStatusRequest.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_GetCANStatusRequest.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="Get cif_can_writer_nixnet_GetCANStatusRequest.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_GetCANStatusRequest.vi"/>
+			<Item Name="RichToFlatcif_can_writer_nixnet_GetCANStatusRequest.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_GetCANStatusRequest.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="Set cif_can_writer_nixnet_GetCANStatusRequest.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_GetCANStatusRequest.vi"/>
+		</Item>
+		<Item Name="cif_can_writer_nixnet_GetCANStatusRequest_Flat" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_GetCANStatusRequest_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_GetCANStatusRequest_Flat.ctl">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+		</Item>
+		<Item Name="cif_can_writer_nixnet_GetCANStatusResponse" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_GetCANStatusResponse.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_GetCANStatusResponse.ctl"/>
+			<Item Name="FlatToRichcif_can_writer_nixnet_GetCANStatusResponse.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_GetCANStatusResponse.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="Get cif_can_writer_nixnet_GetCANStatusResponse.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_GetCANStatusResponse.vi"/>
+			<Item Name="RichToFlatcif_can_writer_nixnet_GetCANStatusResponse.vi" Type="VI" URL="../RPC Messages/RichToFlatcif_can_writer_nixnet_GetCANStatusResponse.vi">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+			<Item Name="Set cif_can_writer_nixnet_GetCANStatusResponse.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_GetCANStatusResponse.vi"/>
+		</Item>
+		<Item Name="cif_can_writer_nixnet_GetCANStatusResponse_Flat" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_GetCANStatusResponse_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_GetCANStatusResponse_Flat.ctl">
+				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			</Item>
+		</Item>
 		<Item Name="cif_can_writer_nixnet_InterfaceBlink" Type="Folder">
 			<Item Name="cif_can_writer_nixnet_InterfaceBlink.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_InterfaceBlink.ctl"/>
 			<Item Name="FlatToRichcif_can_writer_nixnet_InterfaceBlink.vi" Type="VI" URL="../RPC Messages/FlatToRichcif_can_writer_nixnet_InterfaceBlink.vi">
@@ -45,6 +89,18 @@
 			<Item Name="cif_can_writer_nixnet_InterfaceBlink_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_InterfaceBlink_Flat.ctl">
 				<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 			</Item>
+		</Item>
+		<Item Name="cif_can_writer_nixnet_LastError" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_LastError.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_LastError.ctl"/>
+			<Item Name="Get cif_can_writer_nixnet_LastError for Value.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_LastError for Value.vi"/>
+			<Item Name="Get cif_can_writer_nixnet_LastError.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_LastError.vi"/>
+			<Item Name="Get Value for cif_can_writer_nixnet_LastError.vi" Type="VI" URL="../RPC Messages/Get Value for cif_can_writer_nixnet_LastError.vi"/>
+			<Item Name="Set cif_can_writer_nixnet_LastError.vi" Type="VI" URL="../RPC Messages/Set cif_can_writer_nixnet_LastError.vi"/>
+		</Item>
+		<Item Name="cif_can_writer_nixnet_LastError_Flat" Type="Folder">
+			<Item Name="cif_can_writer_nixnet_LastError_Flat.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_LastError_Flat.ctl"/>
+			<Item Name="Get cif_can_writer_nixnet_LastError_Flat for Value.vi" Type="VI" URL="../RPC Messages/Get cif_can_writer_nixnet_LastError_Flat for Value.vi"/>
+			<Item Name="Get Value for cif_can_writer_nixnet_LastError_Flat.vi" Type="VI" URL="../RPC Messages/Get Value for cif_can_writer_nixnet_LastError_Flat.vi"/>
 		</Item>
 		<Item Name="cif_can_writer_nixnet_RefreshDevices" Type="Folder">
 			<Item Name="cif_can_writer_nixnet_RefreshDevices.ctl" Type="VI" URL="../RPC Messages/cif_can_writer_nixnet_RefreshDevices.ctl"/>

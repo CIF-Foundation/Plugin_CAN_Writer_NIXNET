@@ -15,6 +15,7 @@
 	<Item Name="Commands" Type="Folder">
 		<Item Name="Get Devices.vi" Type="VI" URL="../Commands/Get Devices.vi"/>
 		<Item Name="Get Statistics.vi" Type="VI" URL="../Commands/Get Statistics.vi"/>
+		<Item Name="Get CAN Status.vi" Type="VI" URL="../Commands/Get CAN Status.vi"/>
 		<Item Name="Send CAN Message.vi" Type="VI" URL="../Commands/Send CAN Message.vi"/>
 		<Item Name="Blink.vi" Type="VI" URL="../Commands/Blink.vi"/>
 	</Item>
